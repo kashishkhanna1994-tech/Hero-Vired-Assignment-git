@@ -12,6 +12,6 @@ if __name__ == "__main__":
 
     calculator = GeometryCalculator()
 
-    # TODO: Implement the feature to calculate the area of a circle
+    # calculate the area of a circle
 
-    # TODO: Implement the feature to calculate the area of a rectangle
+    # calculate the area of a rectangle
