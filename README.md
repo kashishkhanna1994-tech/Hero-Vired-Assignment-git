@@ -7,7 +7,7 @@ cd /C/Users/nicsi/Desktop/Hero-Vired-Assignment-git git init
 
 echo "# Hero-Vired-Assignment-git" >> README.md git add README.md git commit -m "first commit"
 
-git branch -M main git remote add origin  git push -u origin main
+git branch -M main git remote add origin https://github.com/kashishkhanna1994-tech/Hero-Vired-Assignment-git.git git push -u origin main
 
 2. Create Development Branch
 git checkout -b dev
